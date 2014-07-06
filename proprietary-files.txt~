@@ -1,4 +1,0 @@
-# put anything that is present on all devices, but is device specific in this file
-
-# runtime lib
-vendor/lib/libtime_genoff.so
