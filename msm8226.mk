@@ -14,6 +14,9 @@
 
 LOCAL_PATH := device/xiaomi/msm8226-common
 
+# include header
+include hardware/qcom/msm8226/msm8226.mk
+
 # Permissions
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.bluetooth_le.xml:system/etc/permissions/android.hardware.bluetooth_le.xml

@@ -5,3 +5,18 @@ vendor/lib/libtime_genoff.so
 
 # wifi
 lib/modules/pronto/pronto_wlan.ko
+
+
+# other libs
+vendor/lib/libNimsWrap.so
+
+# composer
+#lib/libdashplayer.so
+#lib/libmemalloc.so
+#lib/liboverlay.so
+#lib/libqdutils.so
+#lib/libexternal.so
+#lib/libqservice.so
+#lib/hw/hwcomposer.msm8226.so
+#lib/hw/copybit.msm8226.so
+#lib/hw/gralloc.msm8226.so
